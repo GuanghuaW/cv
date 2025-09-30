@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor in the Department of Computer Science and Technology at Kean University. My research centers on Natural Language Processing, with particular interests in multi-document summarization, long document summarization, multimodal summarization, and the application of large language models (LLMs) in data science. I aim to develop innovative approaches that make text data more understandable and actionable.
+I am an Assistant Professor in the Department of Computer Science and Technology at Kean University. My research centers on Natural Language Processing, with particular interests in multi-document summarization, long document summarization, multimodal summarization, and the application of large language models in data science. I aim to develop innovative approaches that make text data more understandable and actionable.
 
 Before joining Kean University, I earned my Ph.D. in Computer Science at the University of Texas at Dallas, where I worked under the mentorship of Dr. Weili Wu.
 
