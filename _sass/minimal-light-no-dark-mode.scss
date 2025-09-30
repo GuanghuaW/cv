@@ -160,7 +160,9 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      /* border-radius: 100%; */
+      width: 180px;   /* make it larger */
+      height: auto;   /* maintain proportions */
     }
 
       .image.avatar:before {
