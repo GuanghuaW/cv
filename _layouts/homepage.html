@@ -49,15 +49,15 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.location %}
-        <div class="location">{{ site.location }}</div>
-        {% endif %}
         {% if site.Department %}
           <div class="Department">{{ site.Department }}</div>
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
+        {% endif %}
+        {% if site.location %}
+        <div class="location">{{ site.location }}</div>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
