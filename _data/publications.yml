@@ -1,21 +1,26 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
   - title: "Segmented Summarization and Refinement: A Pipeline for Long-Document Analysis on Social Media"
     authors: <strong>Guanghua Wang</strong>, Priyanshi Garg, Weili Wu
     journal: Journal of Social Computing <strong>(JSC)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10613026
 
+  - title: "W-prize-collecting scheduling problem on parallel machines"
+    authors: Bo Hou, Tianjiao Guo, Suogang Gao, Guanghua Wang, Weili Wu & Wen Liu
+    journal: Journal of Combinatorial Optimization <strong>(JCO)</strong>, 2024.
+    pdf: https://link.springer.com/article/10.1007/s10878-024-01212-z
+
+  - title: "New approximations for monotone submodular maximization with knapsack constraint"
+    authors: Hongmin W. Du, Xiang Li, Guanghua Wang 
+    journal: Journal of Combinatorial Optimization <strong>(JCO)</strong>, 2024.
+    pdf: https://link.springer.com/article/10.1007/s10878-024-01214-x
+
   - title: "Surveying the landscape of text summarization with deep learning: A comprehensive review"
     authors: <strong>Guanghua Wang</strong>, Weili Wu
     journal: Discrete Mathematics, Algorithms and Applications <strong>(DMAA)</strong>, 2024.
     pdf: https://www.worldscientific.com/doi/abs/10.1142/S1793830923300047
+
+  - title: "Recent Advances in Sensor Coverage"
+    authors: <strong>Guanghua Wang</strong>, Dongyu Mao, Hongwei Du 
+    book:  Handbook of Combinatorial Optimization, 2025.
+    pdf: https://link.springer.com/rwe/10.1007/978-1-4614-6624-6_111-1

@@ -25,6 +25,9 @@
         {% if link.journal %}
           <strong>[Journal]</strong> <em>{{ link.journal }}</em>
         {% endif %}
+        {% if link.book %}
+          <strong>[Book chapter]</strong> <em>{{ link.book }}</em>
+        {% endif %}
       </div>
     <div class="links">
       {% if link.pdf %} 
