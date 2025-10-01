@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Journal Editor</h4>
+<h4 style="margin:0 10px 0;">Editorial Board Member</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.editorialmanager.com/dmaa/default.aspx"><autocolor>Discrete Mathematics, Algorithms and Applications </autocolor></a></li>
