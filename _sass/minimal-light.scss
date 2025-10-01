@@ -217,12 +217,12 @@ papertitle {
       }
 
       .image.avatar img {
-      border-radius: 8px;          /* small rounded corners, or 0 for sharp rectangle */
-      width: 180px;                /* set size */
-      height: auto;                /* keep proportions */
-      padding: 4px;                /* space inside frame */
-      border: 2px solid #000;      /* black rectangular border */
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2); /* optional shadow */
+        border-radius: 8px;          /* small rounded corners, or 0 for sharp rectangle */
+        width: 180px;                /* set size */
+        height: auto;                /* keep proportions */
+        padding: 4px;                /* space inside frame */
+        border: none;      /* black rectangular border */
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2); /* optional shadow */
       }
 
     #header .image.avatar {
