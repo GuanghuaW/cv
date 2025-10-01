@@ -10,6 +10,10 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
+  - title: "Segmented Summarization and Refinement: A Pipeline for Long-Document Analysis on Social Media"
+    authors: <strong>Guanghua Wang</strong>, Priyanshi Garg, Weili Wu
+    journal: Journal of Social Computing <strong>(JSC)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10613026
 
   - title: "Surveying the landscape of text summarization with deep learning: A comprehensive review"
     authors: <strong>Guanghua Wang</strong>, Weili Wu
