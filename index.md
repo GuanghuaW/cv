@@ -16,3 +16,5 @@ Before joining Kean University, I earned my Ph.D. in Computer Science at the Uni
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teaching.md %}
