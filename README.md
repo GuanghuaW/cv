@@ -1,6 +1,6 @@
 # The Minimal Light Theme
  
-*This is the source code of my homepage. I build this website based on [minimal]([https://github.com/orderedlist/minimal](https://github.com/Xiao-Chenguang/minimal-light)).*
+*This is the source code of my homepage. I build this website based on [minimal](https://github.com/Xiao-Chenguang/minimal-light).*
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
