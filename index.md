@@ -17,4 +17,7 @@ Before joining Kean University, I earned my Ph.D. in Computer Science at the Uni
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/teaching.md %}
+## Teaching
+
+- **CPS 3351 Information System Programming** - Fall 2025
+- **Tech 2920 Computer Systems** - Fall 2025
