@@ -1,5 +1,10 @@
 main:
 
+  - title: "Information Systems Auditing of Psychiatric Diagnoses Using Context-Enriched QA-Based Language Models"
+    authors: William (Hongmin) Du, <strong>Guanghua Wang</strong>, Jiahui (Norah) Xu, Miklos A. Vasarhelyi
+    journal: Data Science and Management <strong>(DSM)</strong>, 2026.
+    pdf: https://doi.org/10.1016/j.dsm.2026.01.002
+
   - title: "Segmented Summarization and Refinement: A Pipeline for Long-Document Analysis on Social Media"
     authors: <strong>Guanghua Wang</strong>, Priyanshi Garg, Weili Wu
     journal: Journal of Social Computing <strong>(JSC)</strong>, 2024.
