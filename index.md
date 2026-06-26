@@ -15,7 +15,7 @@ Before joining Kean University, I earned my Ph.D. in [Computer Science at the Un
 
 - **Natural Language Processing:** text summarization, multimodal summarization, 
 - **Data Science with LLM** 
-- **Fairness AI**
+- **Trustworthy AI**
 
 {% include_relative _includes/publications.md %}
 
