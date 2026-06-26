@@ -1,7 +1,7 @@
 main:
   - title: "Dynamic Spectral Clustering for Multi-Document Summarization of Social Media Discourse"
     authors: <strong>Guanghua Wang</strong>, Weili Wu, Dingzhu Du
-    journal: ACM Transactions on Social Computing <strong>(ACMTSC)</strong>, 2026.
+    journal: ACM Transactions on Social Computing <strong>(TSC)</strong>, 2026.
     pdf: https://doi.org/10.1145/3821404
     
   - title: "Information Systems Auditing of Psychiatric Diagnoses Using Context-Enriched QA-Based Language Models"
