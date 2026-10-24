@@ -14,7 +14,7 @@ Before joining Kean University, I earned my Ph.D. in [Computer Science at the Un
 ## Research Interests
 
 - **Natural Language Processing:** text summarization, multimodal summarization, 
-- **Data Science with LLM** 
+- **Medical Data Science with LLM** 
 - **Trustworthy AI**
 
 {% include_relative _includes/publications.md %}
@@ -25,5 +25,5 @@ Before joining Kean University, I earned my Ph.D. in [Computer Science at the Un
 
 - **CPS 3820 Trustworthy & Responsible AI** - Spring 2026
 - **CPS 4200 Systems Programming** - Spring 2026
-- **CPS 3351 Information System Programming** - Fall 2025
-- **Tech 2920 Computer Systems** - Fall 2025
+- **CPS 3351 Information System Programming** - Fall 2025-2026
+- **Tech 2920 Computer Systems** - Fall 2025-2026
