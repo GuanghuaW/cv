@@ -17,6 +17,8 @@ Before joining Kean University, I earned my Ph.D. in [Computer Science at the Un
 - **Medical Data Science with LLM** 
 - **Trustworthy AI**
 
+{% include_relative _includes/funding.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
