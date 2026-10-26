@@ -6,6 +6,12 @@
   <li><a href="https://www.editorialmanager.com/dmaa/default.aspx"><autocolor>Discrete Mathematics, Algorithms and Applications </autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Conference Session Chair</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.aclweb.org/portal/acl"><autocolor>Annual Meetings of the Association for Computational Linguistics (ACL) 2026</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
