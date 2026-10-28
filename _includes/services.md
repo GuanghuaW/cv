@@ -15,7 +15,7 @@
 <h4 style="margin:0 10px 0;">Conference Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://aaai.org/"><autocolor>Association for the Advancement of Artificial Intelligence (AAAI) 2024-2027</autocolor></a></li>
+  <li><a href="https://aaai.org/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2024-2027</autocolor></a></li>
   <li><a href="https://lrec2026.info/"><autocolor>International Conference on Language Resources and Evaluation (LREC) 2024, 2026</autocolor></a></li>
   <li><a href="https://coling2025.org/"><autocolor>International Conference on Computational Linguistics (COLING) 2024, 2025</autocolor></a></li>
   <li><a href="https://theory.utdallas.edu/AAIM2024/"><autocolor>International Conference on Algorithmic Aspects in Information and Management (AAIM) 2024, 2026</autocolor></a></li>
